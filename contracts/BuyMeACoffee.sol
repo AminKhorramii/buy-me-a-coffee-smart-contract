@@ -4,6 +4,8 @@ pragma solidity ^0.8.0;
 // Uncomment this line to use console.log
 // import "hardhat/console.sol";
 
+// Deployed to Goerli at 0x78A2685a504Ee6d80bdD68d7DA6cb9462DFc2FE7
+
 contract BuyMeACoffee {
     event NewMemo(
         address indexed from,
